@@ -1,0 +1,51 @@
+/*  STYLE POUR LA MAQUETTE ONEMILLION */
+
+.style2 {
+    color: white;
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.style4 {
+    padding-top: 5rem;
+    text-align: center;
+}
+
+h2 {
+    color: #e74c3c;
+    text-align: center;
+
+}
+
+.style5 {
+    text-align: center;
+}
+
+.style6 {
+    text-align: center;
+}
+
+.style7 {
+    font-size: 6rem;
+}
+
+p {
+    text-align: center;
+    
+}
+
+.style8 {
+    font-size: 6rem;
+    background-color: grey;
+    border-radius: 50%;
+    color: white;
+}
+
+.style9 {
+    margin-top: 6rem;
+    text-align: center;
+}
