@@ -31,6 +31,7 @@ h2 {
 
 .style7 {
     font-size: 6rem;
+    color: rgb(81, 79, 79);
 }
 
 p {
@@ -40,7 +41,7 @@ p {
 
 .style8 {
     font-size: 6rem;
-    background-color: grey;
+    background-color: rgb(81, 79, 79);
     border-radius: 50%;
     color: white;
 }
@@ -48,4 +49,33 @@ p {
 .style9 {
     margin-top: 6rem;
     text-align: center;
+}
+
+.stylebtn1 {
+    background-color: white;
+    color: #e74c3c;
+    border: grey solid 1px;
+}
+
+.style10 {
+    margin-top: 6rem;
+    text-align: center;
+}
+
+.style11 {
+    font-size: 6rem;
+    background-color: rgb(81, 79, 79);
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.stylefooter {
+    text-align: center;
+    color: white;
+    background-color: #e74c3c;
+    padding-top: 10rem;
+    padding-bottom: 1rem;
+    margin-top: 4rem;
+    padding-right: 16rem;
 }
